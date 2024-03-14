@@ -1,0 +1,8 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:cmv="http://www.portalfiscal.inf.br/cmv/wsdl/cmvManutencaoEQP">
+   <soap:Header/>
+   <soap:Body>
+<oneDadosMsg xmlns="http://www.portalfiscal.inf.br/cmv/wsdl/cmvManutencaoEQP">
+<oneManEQP versao="2.00" xmlns="http://www.portalfiscal.inf.br/one"><tpAmb>1</tpAmb><verAplic>SVRS</verAplic><tpMan>1</tpMan><dhReg>2023-12-09T16:00:00-03:00</dhReg><CNPJOper>90256652000184</CNPJOper><cEQP>000000000000001</cEQP><xEQP>Entrada2 - Tramandai x Imbe</xEQP><cUF>43</cUF><tpSentido>E</tpSentido><latitude>-29.981672</latitude><longitude>-50.132475</longitude><tpEQP>2</tpEQP><xRefCompl>Passagem da Ponte sentido Tramandai para Imbe usando a faixa da direita</xRefCompl></oneManEQP></oneDadosMsg>
+</soap:Body>
+</soap:Envelope>
+
